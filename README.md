@@ -18,7 +18,7 @@ Write a C program to sort an array of integers of length N in ascending and desc
 Write a C program that prompts the user to input an integer value, and subsequently checks whether the entered value exists in the array of integers named 'Array'.
 ## Exercise 7:
 Write a C program that reverses an array of integers.
-Example: input: [1,2,3,4,5]
-         output: [5,4,3,2,1]
+Example: input: [1,2,3,4,5].
+output: [5,4,3,2,1].
          
 
