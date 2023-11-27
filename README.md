@@ -14,3 +14,6 @@ Write a C program that prompts the user to input 2 integer numbers, then it calc
 ## Exercise 5: 
 Write a C program to sort an array of integers of length N in ascending and descending order.
 
+## Exercise 6: 
+Write a C program that prompts the user to input an integer value, and subsequently checks whether the entered value exists in the array of integers named 'Array'.
+
