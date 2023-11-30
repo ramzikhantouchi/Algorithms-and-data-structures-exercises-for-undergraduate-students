@@ -18,6 +18,8 @@ click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-stru
 ## Exercise 4: 
 Write a C program that prompts the user to input 2 integer numbers, then it calculates their greatest common divisor, and display the results.
 
+click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/gcd.c) to see the solution of the exercise.
+
 ## Exercise 5: 
 Write a C program to sort an array of integers of length N in ascending and descending order.
 
