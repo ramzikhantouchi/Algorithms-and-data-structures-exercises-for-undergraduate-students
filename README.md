@@ -12,7 +12,6 @@ Two players roll a die. The player with the highest result scores a point. The g
 click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/diceRolling.c) to see the solution of the exercise
 ## Exercise 3:
 Write a C program to display the first N prime numbers.
-
 Example N = 5, the first 5 prime numbers are {2, 3, 5, 7, 11}
 
 click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/primeNumbers.c) to see the solution of the exercise.
