@@ -33,5 +33,7 @@ click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-stru
 Write a C program that reverses an array of integers.
 Example: input: [1,2,3,4,5].
 output: [5,4,3,2,1].
+
+click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/reverseArray.c) to see the solution of the exercise.
          
 
