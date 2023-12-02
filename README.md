@@ -31,7 +31,6 @@ Write a C program that prompts the user to input an integer value, and subsequen
 click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/searchForValue.c) to see the solution of the exercise.
 ## Exercise 7:
 Write a C program that reverses an array of integers.
-
 Example: input: [1,2,3,4,5].
 output: [5,4,3,2,1].
          
