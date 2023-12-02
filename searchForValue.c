@@ -4,6 +4,10 @@ int main(){
 
     int length = 20, value;
     int Array[length];
+    printf("Fill the array of size %d with integer values:\n", length);
+    for(int i = 0; i<length; i++){
+        scanf("%d",&Array[i]);
+    }
     
     printf("Enter an integer number: ");
     scanf("%d",&value);
