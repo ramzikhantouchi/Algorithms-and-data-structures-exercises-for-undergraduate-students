@@ -35,5 +35,13 @@ Example: input: [1,2,3,4,5].
 output: [5,4,3,2,1].
 
 click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/reverseArray.c) to see the solution of the exercise.
-         
+
+## Exercise 8:
+Write a C program that reads the dimension N of an array T of type int (maximum dimension 50) and allows you to:
+1. Fill the array with values entered from the keyboard and display the array.
+2. Calculate and display the sum of the elements of the array.
+3. Determine the largest and smallest value in the array and then display the value and the
+position of the maximum and minimum (the program retains the position of the first maximum or minimum encountered).
+4. Arrange the elements of the array T in reverse order without using an auxiliary array and display the resulting array.
+5. Copy all strictly positive elements into a second array TPOS and all strictly negative values into a third array TNEG. Display the TPOS and TNEG arrays.
 
