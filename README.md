@@ -45,3 +45,4 @@ position of the maximum and minimum (the program retains the position of the fir
 4. Arrange the elements of the array T in reverse order without using an auxiliary array and display the resulting array.
 5. Copy all strictly positive elements into a second array TPOS and all strictly negative values into a third array TNEG. Display the TPOS and TNEG arrays.
 
+
