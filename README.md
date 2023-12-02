@@ -27,6 +27,8 @@ click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-stru
 
 ## Exercise 6: 
 Write a C program that prompts the user to input an integer value, and subsequently checks whether the entered value exists in the array of integers named 'Array'.
+
+click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/searchForValue.c) to see the solution of the exercise.
 ## Exercise 7:
 Write a C program that reverses an array of integers.
 
