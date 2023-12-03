@@ -52,9 +52,9 @@ position of the maximum and minimum (the program retains the position of the fir
 $$\begin{bmatrix}
 a & b\\
 c & d\\
-\end{bmatrix} + $$\begin{bmatrix}
-a1 & b1\\
-c1 & d1\\
+\end{bmatrix} + \begin{bmatrix}
+e & f\\
+g & h\\
 \end{bmatrix}
 $$
 
