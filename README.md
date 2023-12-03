@@ -71,6 +71,7 @@ TXT, and then displays:
 2. the number of 'a's contained in the text.
 3. the entire sentence in reverse without changing the content of the TXT variable.
 4. the entire sentence in reverse after having reversed the order of characters in TXT.
+
 **Example:**
 Original: "voici une petite phrase !".
 
