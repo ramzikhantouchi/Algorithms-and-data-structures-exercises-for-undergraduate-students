@@ -49,8 +49,14 @@ position of the maximum and minimum (the program retains the position of the fir
 2. Fill the array with values entered from the keyboard and display the array along with the sum of all its elements.
 3. Perform the addition of the two matrices A and B, remembering that:
 
-`| a | b | + | a’ | b’ | = | a + a’ | b + b’ |
- | c | d | + | c’ | d’ | = | c + c‘ | d + d’ |`
+`$$\begin{bmatrix}
+a & b\\
+c & d\\
+\end{bmatrix} + $$\begin{bmatrix}
+a1 & b1\\
+c1 & d1\\
+\end{bmatrix}
+$$`
 
 4. Calculate the product of two square matrices of the same dimension.
 5. Display the number of occurrences of the variable X in both matrices.
