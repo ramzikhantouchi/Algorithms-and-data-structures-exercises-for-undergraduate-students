@@ -73,6 +73,7 @@ TXT, and then displays:
 4. the entire sentence in reverse after having reversed the order of characters in TXT.
 
 **Example:**
+
 Original: "voici une petite phrase !".
 
 Reversed: "! esarhp etitep enu iciov".
