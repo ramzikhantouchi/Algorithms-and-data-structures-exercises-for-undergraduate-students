@@ -64,3 +64,14 @@ $$
 4. Calculate the product of two square matrices of the same dimension.
 5. Display the number of occurrences of the variable X in both matrices.
 
+## Exercise 10:
+Write a program that reads a line of text (not exceeding 200 characters), stores it in a variable
+TXT, and then displays:
+a) the length L of the string.
+b) the number of 'a's contained in the text.
+c) the entire sentence in reverse without changing the content of the TXT variable.
+d) the entire sentence in reverse after having reversed the order of characters in TXT.
+**Example:**
+Original: "voici une petite phrase !".
+Reversed: "! esarhp etitep enu iciov".
+
