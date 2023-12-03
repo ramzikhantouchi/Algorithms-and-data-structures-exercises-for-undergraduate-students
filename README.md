@@ -56,7 +56,8 @@ c & d\\
 e & f\\
 g & h\\
 \end{bmatrix} = \begin{bmatrix}
-$a+e$ & $b+f$\\
+a+e & b+f\\
+c+g & d+h\\
 \end{bmatrix}
 $$
 
