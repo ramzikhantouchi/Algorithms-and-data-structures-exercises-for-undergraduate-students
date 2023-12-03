@@ -50,8 +50,7 @@ position of the maximum and minimum (the program retains the position of the fir
 3. Perform the addition of the two matrices A and B, remembering that:
 
 `| a | b | + | a’ | b’ | = | a + a’ | b + b’ |
-
-| c | d | | c’ | d’ | | c + c‘ | d + d’ |`
+ | c | d | + | c’ | d’ | = | c + c‘ | d + d’ |`
 
 4. Calculate the product of two square matrices of the same dimension.
 5. Display the number of occurrences of the variable X in both matrices.
