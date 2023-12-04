@@ -44,6 +44,8 @@ Write a C program that reads the dimension N of an array T of type int (maximum 
 position of the maximum and minimum (the program retains the position of the first maximum or minimum encountered).
 4. Arrange the elements of the array T in reverse order without using an auxiliary array and display the resulting array.
 5. Copy all strictly positive elements into a second array TPOS and all strictly negative values into a third array TNEG. Display the TPOS and TNEG arrays.
+
+click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/arrays2.c) to see the solution of the exercise.
 ## Exercise 9:
 1. Write a program that reads the dimensions N and M of two-dimensional arrays A and B of type int (N and M are entered from the keyboard, maximum 50).
 2. Fill the array with values entered from the keyboard and display the array along with the sum of all its elements.
