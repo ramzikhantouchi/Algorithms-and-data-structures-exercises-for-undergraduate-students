@@ -89,4 +89,22 @@ In the context of this university project, students are invited to develop a sys
 
 The main objective of the project is to design a system that not only stores but also effectively manages patient information. This system will need to include details of prescribed treatments, any drug allergies, hospitalization data, as well as personal information of the patients.
 
+**Project Specifications:**
+
+To achieve this, students will need to create and use custom data structures in C. These structures should cover various aspects:
+- **Treatment:** Store the name of the medication, dosage, and duration of treatment.
+- **Drug Allergies:** Indicate the presence of allergies (yes or no) and, in case of allergies, record the corresponding details.
+- **Hospitalization:** Record whether the patient was hospitalized or not. If so, details such as the service and hospital room, the name, first name, and specialty of the treating physician, the type of treatment received, the diagnosis of the disease, as well as the admission and discharge dates should be included.
+- **Personal Information:** Gather basic information such as the patient's name, first name, date of birth, and patient file number.
+
+**Key functionalities:**
+
+Key functionalities to be developed in this system include the ability to fully enter patient data, search for patients by their name, first name, or file number, and display detailed information about these patients.
+
+**Important considerations:**
+
+Important considerations for this project are the need to rigorously validate entries to ensure data accuracy. Moreover, it is essential that the code is well structured, clearly commented, and designed to be easy to understand and maintain. This project will offer students a valuable opportunity to develop their structured programming skills, while addressing a practical and relevant subject in the field of health.
+
+**Note:** “Clarity is the key to efficiency in programming.”
+
 
