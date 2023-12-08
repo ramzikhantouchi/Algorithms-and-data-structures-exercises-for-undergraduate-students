@@ -103,7 +103,7 @@ Key functionalities to be developed in this system include the ability to fully 
 
 **Important considerations:**
 
-Important considerations for this project are the need to rigorously validate entries to ensure data accuracy. Moreover, it is essential that the code is well structured, clearly commented, and designed to be easy to understand and maintain. This project will offer students a valuable opportunity to develop their structured programming skills, while addressing a practical and relevant subject in the field of health.
+Important considerations for this project are the need to rigorously validate entries to ensure data accuracy. Moreover, it is essential that the code is well structured, clearly commented, and designed to be easy to understand and maintain. This project will offer students a valuable opportunity to develop their structured programming skills, while addressing a practical and relevant subject in the field of healthcare.
 
 **Note:** “Clarity is the key to efficiency in programming.”
 
