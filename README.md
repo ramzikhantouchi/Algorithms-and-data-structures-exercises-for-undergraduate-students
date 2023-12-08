@@ -80,11 +80,13 @@ Original: "voici une petite phrase !".
 
 Reversed: "! esarhp etitep enu iciov".
 
-##Project
+## Project: 
 **Discription:**
 
 In the context of this university project, students are invited to develop a system for managing patient information for a hospital, using the C programming language. The focus is on the precise handling of medical and hospital details, with an approach that values the structuring and organization of data.
 
 **Objective:**
+
+The main objective of the project is to design a system that not only stores but also effectively manages patient information. This system will need to include details of prescribed treatments, any drug allergies, hospitalization data, as well as personal information of the patients.
 
 
