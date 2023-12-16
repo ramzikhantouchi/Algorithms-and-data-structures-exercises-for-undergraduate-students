@@ -66,6 +66,8 @@ $$
 4. Calculate the product of two square matrices of the same dimension.
 5. Display the number of occurrences of the variable X in both matrices.
 
+click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/matrices.c) to see the solution of the exercise.
+
 ## Exercise 10:
 Write a program that reads a line of text (not exceeding 200 characters), stores it in a variable
 TXT, and then displays:
