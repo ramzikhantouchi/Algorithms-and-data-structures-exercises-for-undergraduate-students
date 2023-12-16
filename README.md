@@ -75,13 +75,13 @@ TXT, and then displays:
 2. the number of 'a's contained in the text.
 3. the entire sentence in reverse after having reversed the order of characters in TXT.
 
-click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/texts.c) to see the solution of the exercise.
-
 **Example:**
 
 Original: "voici une petite phrase !".
 
 Reversed: "! esarhp etitep enu iciov".
+
+click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/texts.c) to see the solution of the exercise.
 
 ## Project: 
 **Discription:**
