@@ -73,8 +73,9 @@ Write a program that reads a line of text (not exceeding 200 characters), stores
 TXT, and then displays:
 1. the length L of the string.
 2. the number of 'a's contained in the text.
-3. the entire sentence in reverse without changing the content of the TXT variable.
-4. the entire sentence in reverse after having reversed the order of characters in TXT.
+3. the entire sentence in reverse after having reversed the order of characters in TXT.
+
+click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/texts.c) to see the solution of the exercise.
 
 **Example:**
 
