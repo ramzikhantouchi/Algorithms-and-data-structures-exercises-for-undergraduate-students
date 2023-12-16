@@ -83,6 +83,14 @@ Reversed: "! esarhp etitep enu iciov".
 
 click on this [link](https://github.com/ramzikhantouchi/Algorithms-and-data-structures-exercises-for-undergraduate-students/blob/main/texts.c) to see the solution of the exercise.
 
+## Exercise 11:
+**Describe the matchstick game:** initially, there is a pile of n matchsticks. (players specify the number of matchsticks to start the game)
+- The game can be played against a computer or another player.
+- Both players roll a die (the one with the higher number starts the game).
+- Each player, in turn, must take 1, 2, or 3 matchsticks from the pile of n matchsticks.
+- The player who removes the last matchstick loses.
+- At the end of the game, the user can be asked to replay or quit.
+
 ## Project: 
 **Discription:**
 
