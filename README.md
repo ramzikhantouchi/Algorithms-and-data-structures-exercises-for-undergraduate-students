@@ -118,4 +118,11 @@ Important considerations for this project are the need to rigorously validate en
 
 **Note:** “Clarity is the key to efficiency in programming.”
 
+##Exercise 12:
+Write a program in C to find the square of any number using the function.
+**Test Data :**
+Input any number for square : 20
+**Expected Output :**
+
+The square of 20 is : 400.00
 
