@@ -143,3 +143,39 @@ Input 2nd number : 4
 Before swapping: n1 = 2, n2 = 4                                         
 After swapping: n1 = 4, n2 = 2 
 
+## Exercise 14:
+Write a program in C to check if a given number is even or odd using the function.
+
+**Test Data :**
+
+Input any number : 5
+
+**Expected Output :**
+
+ The entered number is odd.
+
+ ## Exercise 15:
+
+ Write a program in C to convert a decimal number to a binary number using the function.
+
+**Test Data :**
+
+Input any decimal number : 65
+
+**Expected Output :**
+
+ The Binary value is : 1000001
+
+ ## Exercise 16:
+
+  Write a program in C to print the first 50 natural numbers using recursion.
+
+**Expected Output:**
+
+ The natural numbers are : **1  2  3
+  4  5  6  7  8  9  10  11  12  13
+  14  15  16  17  18  19  20  21  
+22  23  24  25  26  27  28  29  30
+  31  32  33  34  35  36  37  38  
+39  40  41  42  43  44  45  46  47
+  48  49  50**
