@@ -195,7 +195,7 @@ Input number of terms for the Series (< 20) : 10
  The Series are : **1  1  2  3  5  8  13  21  34  55** 
 
  # Project Proposal 2024
- ##Title:Student Management System in C
+ ## Title:Student Management System in C
 
 This project involves developing a Student Management System with the following system requirements:
 
