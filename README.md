@@ -193,3 +193,20 @@ Input number of terms for the Series (< 20) : 10
  Input number of terms for the Series (< 20) : 10                                
  
  The Series are : **1  1  2  3  5  8  13  21  34  55** 
+
+ # Project Proposal 2024
+ ##Title:Student Management System in C
+
+This project involves developing a Student Management System with the following system requirements:
+
+1. Add new student records.
+
+2. Delete existing student records.
+
+3. Display all student records.
+
+4. Edit existing student information.
+
+5. Implement a menu-driven console interface.
+
+6. Organize student information using arrays and structures. Each student record will include details such as name, age, roll number, and grade.
